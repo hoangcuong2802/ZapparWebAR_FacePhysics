@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "face-tracking-physics",
+"productVersion": "0.1",
+"dataUrl": "ZapparWebAR_FacePhysics.data.unityweb",
+"wasmCodeUrl": "ZapparWebAR_FacePhysics.wasm.code.unityweb",
+"wasmFrameworkUrl": "ZapparWebAR_FacePhysics.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
